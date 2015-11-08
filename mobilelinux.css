@@ -1,0 +1,38 @@
+nav img {
+  width: 100px;
+  height: 100px;
+  margin-left: 20%;
+}
+
+h1 {
+  padding-top: 10px;
+  border: 1px solid black;
+  width: 80%;
+  margin: auto;
+}
+
+nav {
+  display: inline;
+  width: 100px;
+  margin: auto;
+  margin-left: 10%;
+}
+/*section {
+  border: 1px solid black;
+  background-color: rgba(39, 174, 96, 0.5);
+  display: inline;
+  width: 60%;
+  margin: auto;
+  margin-left: 30%;
+  margin-top: 0%;
+}*/
+
+
+section {
+  border: 1px solid red;
+  background-color: rgba(39, 174, 96, 0.5);
+  width: 80%;
+  margin: auto;
+ margin-left: 10%;
+  margin-top: 0%;
+}

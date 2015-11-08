@@ -1,0 +1,60 @@
+header {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(39, 174, 96);
+  border-radius: 5px;
+}
+h1 {
+  padding-top: 10px;
+  border: 1px solid black;
+  width: 400px;
+  margin: auto;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+
+#accueil{
+  display: none;
+}
+nav{
+  display:block;
+  font-size: 1.2em;
+  width: 100px;
+  margin-bottom: -200px;
+
+}
+
+body {
+background-color: rgb(149, 165, 166);
+}
+section {
+  display: inline-block;
+  width: 500px;
+  margin-left: 20%;
+  margin-top: 110px;
+  background-color: rgba(39, 174, 96, 0.5);
+}
+
+
+p{
+  font-style: italic;
+  font-family: 'Francois One', sans-serif;
+}
+
+code {
+  font-family: fantasy;
+  font-weight: bold;
+  color: blue;
+}
+#linux_icon{
+margin-left: 70%;
+margin-top: -40%
+
+}
+footer {
+  height: 100px;
+  background-color: rgb(39, 174, 96);
+  border-radius: 5px;
+}
